@@ -45,7 +45,7 @@ Se quiser apoiar meu trabalho e continuar me vendo evoluir, existem algumas form
 - 🤖 Me adicione no seu servidor do Discord e aproveite o ambiente com boas energias  
 
 <p align="center">
-  <a href="donate.md">
+  <a href="/donate.md">
     <img src="https://img.shields.io/badge/Apoiar%20a%20Cappia-7E57C2?style=for-the-badge&logo=buymeacoffee&logoColor=white">
   </a>
 </p>
