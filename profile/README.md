@@ -65,20 +65,20 @@ Agora… aceita um café? ☕
 
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=1414728992849662023" target="_blank">
-    <img src="https://img.shields.io/badge/Adicionar%20ao%20Discord-5B4B8A?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Adicionar%20ao%20Discord-7E57C2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://discord.gg/MYzbWG2RCW" target="_blank">
+    <img src="https://img.shields.io/badge/Entrar%20na%20nossa%20Cafeteria-7E57C2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
----
 
 <p align="center">
-  <a href="https://instagram.com/cappia.bot" target="_blank">
+  <a href="https://instagram.com/itscappia" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-7E57C2?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://cappia.site" target="_blank">
-    <img src="https://img.shields.io/badge/Site-5C5470?style=for-the-badge&logo=firefox&logoColor=white">
+    <img src="https://img.shields.io/badge/Site-7E57C2?style=for-the-badge&logo=globe&logoColor=white">
   </a>
-  <a href="mailto:support@cappia.site" target="_blank">
-    <img src="https://img.shields.io/badge/Email-7E57C2?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/support@cappia.site-7E57C2?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
