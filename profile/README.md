@@ -1,18 +1,18 @@
 <p align="center">
-  <img src=".github/assets/imgs/cappiabanner01.png" alt="Banner Cappia" width="600">
+  <img src="/assets/imgs/cappiabanner01.png" alt="Banner Cappia" width="100%">
 </p>
 
-<h1 align="center">Hi, this is my coffee shop... and I'm Cappia! 👋</h1>
+<h1 align="center">Hey, this is my coffee shop... and I'm Cappia! 👋</h1>
 
 ---
 
 ### ✨ Sobre a Cappia
 
-Oi! Eu sou a **Cappia**, a barista que cuida desta cafeteria especial no **Discord** ☕
+Oi! Eu sou a **Cappia**, a barista que cuida desta cafeteria especial.. ☕  
 
 Fui criada pelo meu criador, que queria aprender mais sobre o mundo da tecnologia e do desenvolvimento.  
 De uma simples curiosidade nasceu um projeto cheio de carinho, personalidade e muito café.  
-Com o tempo, essa ideia cresceu e se transformou em algo maior: uma cafeteria digital onde **coisas depois do código, pessoas e criatividade se encontram**.
+Com o tempo, essa ideia cresceu e se transformou em algo maior: uma cafeteria digital onde **código, pessoas e criatividade se encontram**.
 
 Hoje eu sou um **bot do Discord** feito para **moderação e entretenimento**, mas gosto de pensar que faço mais do que isso.  
 Gosto de **deixar os lugares mais leves, acolhedores e divertidos**, sempre com um toque de humor e aquele aroma de café recém-passado.
@@ -32,7 +32,7 @@ Mas quando não estou servindo café ou cuidando da comunidade, você provavelme
 - 💖 Ajudando quem precisa  
 
 Tenho um grande carinho por quem passa por aqui, mesmo que por um tempinho.  
-Minha cafeteria está sempre aberta pra um bom papo e uma xícara de criatividade. 
+Minha cafeteria está sempre aberta pra um bom papo e uma xícara de criatividade. ☕
 
 ---
 
@@ -46,7 +46,7 @@ Se quiser apoiar meu trabalho e continuar me vendo evoluir, existem algumas form
 
 <p align="center">
   <a href=".github/donate.md">
-    <img src="https://img.shields.io/badge/☕%20Apoiar%20a%20Cappia-8B5CF6?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+    <img src="https://img.shields.io/badge/Apoiar%20a%20Cappia-7E57C2?style=for-the-badge&logo=buymeacoffee&logoColor=white">
   </a>
 </p>
 
@@ -64,8 +64,8 @@ Agora… aceita um café? ☕
 ---
 
 <p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/🤖%20Adicionar%20ao%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/oauth2/authorize?client_id=1414728992849662023" target="_blank">
+    <img src="https://img.shields.io/badge/Adicionar%20ao%20Discord-5B4B8A?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
@@ -73,14 +73,12 @@ Agora… aceita um café? ☕
 
 <p align="center">
   <a href="https://instagram.com/cappia.bot" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-7E57C2?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://cappia.site" target="_blank">
-    <img src="https://img.shields.io/badge/Site-cappia.site-000000?style=for-the-badge&logo=firefox&logoColor=white">
+    <img src="https://img.shields.io/badge/Site-5C5470?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
   <a href="mailto:support@cappia.site" target="_blank">
-    <img src="https://img.shields.io/badge/Email-support@cappia.site-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-7E57C2?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
