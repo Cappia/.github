@@ -64,7 +64,7 @@ Agora… aceita um café? ☕
 ---
 
 <p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=1414728992849662023" target="_blank">
+  <a href="https://discord.com/oauth2/authorize?client_id=1437246291573866710" target="_blank">
     <img src="https://img.shields.io/badge/Adicionar%20ao%20Discord-7E57C2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://discord.gg/MYzbWG2RCW" target="_blank">
@@ -77,7 +77,7 @@ Agora… aceita um café? ☕
   <a href="https://instagram.com/itscappia" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-7E57C2?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://cappia.site" target="_blank">
+  <a href="https://discord.com/oauth2/authorize?client_id=1437246291573866710" target="_blank">
     <img src="https://img.shields.io/badge/Site-7E57C2?style=for-the-badge&logo=globe&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/support@cappia.site-7E57C2?style=for-the-badge&logo=gmail&logoColor=white">
